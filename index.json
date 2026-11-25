@@ -1,0 +1,19 @@
+{
+  "title": "Zeddock – exempelmallar",
+  "templates": [
+    {
+      "name": "uppgift1",
+      "title": "Uppgift 1: HTML5",
+      "description": "En tom HTML5-sida som säger Hej!",
+      "url": "uppgift1.zip",
+      "sha256": "e67a9a56812c8ecf823ba930c0f95e36376c204b9db73919929bf1ab661e1cde"
+    },
+    {
+      "name": "uppgift2",
+      "title": "Uppgift 2: HTML och CSS",
+      "description": "En sida med färger från style.css",
+      "url": "uppgift2.zip",
+      "sha256": "acaa83bee80547c67af3cb7afc45c831e6552ce5cd7a83de23436e2702bb1336"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+/* Hela sidan */
+body {
+    background-color: lightyellow;
+    color: darkslategray;
+    font-family: sans-serif;
+}
+
+/* Rubriken */
+h1 {
+    color: crimson;
+}
+
+/* Allt med class="ruta" */
+.ruta {
+    background-color: lightblue;
+    padding: 10px;
+}
